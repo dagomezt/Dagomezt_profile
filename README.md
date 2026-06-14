@@ -46,5 +46,10 @@ Feel free to connect with me on LinkedIn.
 
 ---
 
+### 📊 Contribution Calendar
+![David's Contribution Graph](https://ghchart.rshah.org/dgomezt-cloud)
+
+---
+
 ### 📂 My Projects
 You can find my projects and repositories below. ⬇️⬇️⬇️
