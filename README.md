@@ -42,7 +42,7 @@ I'm a Software Engineering student from Colombia with a strong interest in netwo
 ### 🔗 Let's keep in touch
 Feel free to connect with me on LinkedIn.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dgomezt-cloud/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dgomezt)
 
 ---
 
