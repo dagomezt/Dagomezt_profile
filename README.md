@@ -48,7 +48,7 @@ Feel free to connect with me on LinkedIn.
 
 ### 📊 Contribution Calendar
 
-<img src="https://raw.githubusercontent.com/dagomezt/dagomezt/snake-output/snake.svg" alt="Snake animation" />
+![David's Contribution Graph](https://ghchart.rshah.org/dagomezt)
 
 ---
 
