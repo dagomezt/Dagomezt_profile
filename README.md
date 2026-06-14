@@ -47,7 +47,11 @@ Feel free to connect with me on LinkedIn.
 ---
 
 ### 📊 Contribution Calendar
-![David's Contribution Graph](https://ghchart.rshah.org/dgomezt-cloud)
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/dagomezt/dagomezt/stats-output/stats.svg" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/dagomezt/dagomezt/languages-output/languages.svg" height="150" alt="languages graph"  />
+</div>
 
 ---
 
