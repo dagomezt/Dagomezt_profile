@@ -46,8 +46,8 @@ Feel free to connect with me on LinkedIn.
 
 ---
 
-### 📊 Contribution Calendar
-![David's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dagomezt&show_icons=true&theme=dark&hide_border=true)
+### 📊 Contribution Stats
+
 ![David's Streak](https://github-readme-streak-stats.herokuapp.com/?user=dagomezt&theme=dark&hide_border=true)
 
 ---
