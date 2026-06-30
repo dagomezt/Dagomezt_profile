@@ -47,8 +47,9 @@ Feel free to connect with me on LinkedIn.
 ---
 
 ### 📊 Contribution Stats
-
+<div align="center">
 ![David's Streak](https://github-readme-streak-stats.herokuapp.com/?user=dagomezt&theme=dark&hide_border=true)
+</div>
 
 ---
 
